@@ -1,13 +1,11 @@
 # Hi there 👋, I'm Josephine Namuddu Ssali
 
 ## 🚀 About Me
-- 🌱 I’m currently learning:Web development
-- 👯 I’m looking to collaborate on: Web development begginer's projects
-- 💬 Ask me about:HTML, CSS, Bootstrap and basic JavaScript
+- 🌱 I’m a junior Web developer, Junior AI Engineer, Technology Innovator and a UIUX designer
+- 👯 I’m looking to collaborate on: Web development beginner projects, AI prompting,UIUX designing and Technology innovation Projects. 
+- 💬 Ask me about:HTML, CSS, Bootstrap and basic JavaScript,UIUX with Figma, AI Prompting Researching for developing technology inspired solutions.
 - 📫 How to reach me: jorselyne@gmail.com
-- ⚡ Fun fact: I have a growing passion for tech eventhough it is a fast paced industry.
-
----
+- ⚡ Fun fact: i come from a Finance background but poses a growing passion for technology, AI and Innovation
 
 ## 🛠️ Tech Stack
 - 💻 Languages: JavaScript
@@ -32,8 +30,8 @@
   - This a mobile responsive website project created with html,BootStrap and CSS
 - 🔗 [Todo app](https://github.com/JosephineNamuddu/JavaScript-class
   -This is a todo app where tasks can be added and saved parmanently with the JavaScript Object Model(JSON)
-
----
+- 🔗 [The Code Queen App] ()
+  -This is a Hackathon project for the Code Queen, a platform connecting different Cohorts together.
 
 ## 🌍 Connect with Me
 - LinkedIn:https://www.linkedin.com/in/namuddu-josephine-079369318/
